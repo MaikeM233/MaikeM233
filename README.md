@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Zunke Ma
-M.S. Business Analytics '24 @ Columbia University
-B.S. Actuarial Science '22 @ University of Texas at Austin🤘
+<br />M.S. Business Analytics '24 @ Columbia University
+<br />B.S. Actuarial Science '22 @ University of Texas at Austin🤘
