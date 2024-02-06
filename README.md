@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Zunke Ma | M.S. Business Analytics '24 @ Columbia University | B.S. Actuarial Science '22 @ University of Texas at Austin
+Zunke Ma
+M.S. Business Analytics '24 @ Columbia University
+B.S. Actuarial Science '22 @ University of Texas at Austin🤘
